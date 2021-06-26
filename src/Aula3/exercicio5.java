@@ -1,4 +1,4 @@
-package com.company;
+package Aula3;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -32,14 +32,6 @@ public class exercicio5 {
                 numbers) {
             System.out.println(number);
         }
-
-
-        /* String teste;
-        teste = Integer.toString(23);
-        System.out.println(teste.charAt(teste.length() - 1));
-        int a = 2;
-        char b = '2';
-        System.out.println(Integer.toString(a).equals(Character.toString(b))); */
     }
 
 }
