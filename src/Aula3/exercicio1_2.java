@@ -2,7 +2,7 @@ package Aula3;
 
 import java.util.Scanner;
 
-public class exercicio2 {
+public class exercicio1_2 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         System.out.println("Digite o numero de repeticoes");

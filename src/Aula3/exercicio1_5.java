@@ -3,7 +3,7 @@ package Aula3;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class exercicio5 {
+public class exercicio1_5 {
 
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
