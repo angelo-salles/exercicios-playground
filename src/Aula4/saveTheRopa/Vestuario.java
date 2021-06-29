@@ -1,4 +1,4 @@
-package Aula4;
+package Aula4.saveTheRopa;
 
 public class Vestuario {
     private String marca;
